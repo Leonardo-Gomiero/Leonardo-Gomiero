@@ -25,7 +25,9 @@
 
 ##
 
-<img src="https://raw.githubusercontent.com/Leonardo-Gomiero/Leonardo-Gomiero/output/snake.svg" alt="Snake animation" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Leonardo-Gomiero/Leonardo-Gomiero/output/snake.svg" alt="Snake animation" />
+</p>
 
 ##
 
