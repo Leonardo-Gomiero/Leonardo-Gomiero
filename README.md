@@ -1,5 +1,4 @@
 
-<img src="https://raw.githubusercontent.com/Leonardo-Gomiero/Leonardo-Gomiero/output/snake.svg" alt="Snake animation" />
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8a2be2&height=120&section=header"/>
@@ -26,7 +25,11 @@
 <a href="mailto:leonardo.gomiero.c.c@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
 <a href="https://www.linkedin.com/in/leonardo-gomiero/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
 </div>
-  
+
+##
+
+<img src="https://raw.githubusercontent.com/Leonardo-Gomiero/Leonardo-Gomiero/output/snake.svg" alt="Snake animation" />
+
 ##
 
 ### Main skills:
@@ -60,12 +63,8 @@
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Leonardo-Gomiero}/count.svg" /></p> 
 <br></div>
-  
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8a2be2&height=120&section=footer"/>****
-
-<h1 align="center">Hi 👋, I'm Leonardo Capoccia</h1>
-<h3 align="center">A passionate frontend developer from Brazil</h3>
 
 
 
